@@ -5,5 +5,5 @@
  */
 export function greet(name) {
   const trimmed = name.trim();
-  return trimmed ? `Hi, ${trimmed}!` : 'Hi, world!';
+  return trimmed ? `Hello, ${trimmed}!` : 'Hello, world!';
 }
